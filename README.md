@@ -8,7 +8,7 @@
 
 ## 项目引入
 
-项目本地本地打包：mvn clean install -Dmaven.test.skip=true
+项目本地本地打包：`mvn clean install -Dmaven.test.skip=true`
 
 如果是本地环境打入jar包或者将jar包放入了私有仓库：
 
