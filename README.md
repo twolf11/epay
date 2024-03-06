@@ -39,9 +39,9 @@
 使用方式：
 
 ```
-		//创建
-		EpayService epayService = new EpayService(url,pid,key);
-		//发起支付
+        //创建
+        EpayService epayService = new EpayService(url,pid,key);
+        //发起支付
         PayResponse pay = epayService.pay(payRequest);
 ```
 
